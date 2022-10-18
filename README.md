@@ -1,1 +1,2 @@
-Link to the template files: https://github.com/tomitokko/django-social-media-template
+Simple Social media like app with ability of signin and register and being able to add profile image and description and location as the setting and uploading images
+on your page and also being able to follow the existing users...
